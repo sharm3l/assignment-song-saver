@@ -1,0 +1,60 @@
+h1 {
+  color: black;
+}
+
+body {
+  color: #fff;
+}
+
+html {
+  background: rgb(131, 184, 235);
+  text-align: center;
+}
+
+input,
+select {
+  font-size: 20px;
+  color: #0d264f;
+  background-color: #c7c7e7;
+  margin: 10px;
+}
+
+.addButton {
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: #fff;
+  background-color: #0d264f;
+}
+
+.list-item {
+  border: solid 2px;
+  color: #fff;
+  padding: 5px;
+}
+
+.song-row__item {
+  padding: 8px;
+  background-color: #03024e;
+}
+
+.input-field {
+  padding: 15px;
+  background-color: rgb(73, 63, 207);
+}
+
+.item {
+  padding: 8px;
+  background-color: rgb(31, 131, 224);
+}
+
+.item-button {
+  width: 15px;
+}
+
+.delete-button {
+  background-color: rgb(139, 9, 226);
+}
+
+.filter-field {
+  padding: 10px;
+}
